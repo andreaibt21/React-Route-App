@@ -5,7 +5,7 @@ export default function Home({ type }) {
   return (
     <div>
       <main className="container shadow mt-5 bg-info">
-        <h2 className="display-5 px-3 fw-bold p-3">In this projec I learned the following:</h2>
+        <h2 className="display-5 px-3 fw-bold p-3">In this project I learned the following:</h2>
         <ul >
           <li>Configuring Routes</li>
           <li>Navigating with Link</li>

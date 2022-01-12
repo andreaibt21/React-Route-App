@@ -1,4 +1,4 @@
-# In this projec I learned the following:
+# In this project I learned the following:
 
 Configuring Routes\
 Navigating with Link\
