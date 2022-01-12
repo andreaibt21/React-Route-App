@@ -1,12 +1,12 @@
 # In this projec I learned the following:
 
-Configuring Routes
-Navigating with Link
-Creating Links with active styling
-Using Nested Routes for Layout
-Using URL params for data loading
-Using URL Search params
-Navigate programmatically by deleting a invoice
+Configuring Routes\
+Navigating with Link\
+Creating Links with active styling\
+Using Nested Routes for Layout\
+Using URL params for data loading\
+Using URL Search params\
+Navigate programmatically by deleting a invoice\
 
 # Getting Started with Create React App
 
